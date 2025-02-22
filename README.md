@@ -21,7 +21,7 @@
         'user'     => 'postgres',
         'password' => 'root',
     ],
-    ```
+  ```
 4. **Запустите встроенный PHP-сервер:**
    ```bash
    php -S localhost:8000 -t public
